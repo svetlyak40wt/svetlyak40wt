@@ -9,13 +9,8 @@ I'm writing software in Common Lisp and write about it on my blog [Common Lisp P
 
 ---
 
-## My GitHub Stats &#x1f4c8;
-
 <a href="https://github.com/svetlyak40wt/svetlyak40wt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svetlyak40wt&hide=JavaScript,CSS,Emacs+Lisp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/svetlyak40wt/svetlyak40wt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svetlyak40wt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alexander's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=svetlyak40wt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
 
 <!--
