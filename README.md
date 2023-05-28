@@ -2,6 +2,8 @@
 
 I'm writing software in Common Lisp and write about it on my blog [Common Lisp Project of the Day](https://40ants.com/lisp-project-of-the-day/) and twitter [@svetlyak40wt](https://twitter.com/svetlyak40wt).
 
+Also, I'm making videos about CL! Join my YouTube channel https://www.youtube.com/@40Ants!
+
 ---
 
 ## I am also lurking on ⚡
